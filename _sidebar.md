@@ -1,4 +1,4 @@
-* [首页](zh-cn/)
+
 * [移动开发](zh-cn/mobileDev/)
 * [后端开发](zh-cn/backendDev)
 * [前端学习](zh-cn/frontendDev)

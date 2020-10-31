@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-10-31 17:57:11
- * @LastEditTime: 2020-10-31 18:06:18
+ * @LastEditTime: 2020-10-31 21:06:39
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /Blogs/_navbar.md
@@ -16,7 +16,7 @@
 * [生活](zh-cn/story)
 
 * 翻译
-  *[En](en/)
-  *[中文](zh-cn/)
+  * [En](en/)
+  * [中文](zh-cn/)
 
 
