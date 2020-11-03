@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-10-31 17:57:11
- * @LastEditTime: 2020-11-03 14:33:10
+ * @LastEditTime: 2020-11-03 14:55:44
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /Blogs/_navbar.md
@@ -15,7 +15,7 @@
 * [产品研究](zh-cn/product)
 * [灵感收集](zh-cn/ideas)
 * [生活](zh-cn/story)
-* [收藏]()
+* [收藏](zh-cn/collect)
 
 
 * 翻译
