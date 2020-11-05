@@ -5,6 +5,14 @@
 
 > 程序猿面试宝典，一起进步
 
+* [技术面试需要掌握的基础知识](https://www.bookstack.cn/read/Interview-Notebook/notes-Git.md)
+
+> 整理很全面的程序面试基础知识；
+
+* [阮一峰 中文技术文档写作规范](https://www.bookstack.cn/read/document-style-guide/docs-text.md)
+
+> 写的很好，很实用，增强文档输出，可以大大提升开发者的专业程度；
+
 * [书栈网](https://www.bookstack.cn/)
 
 > 开源文档，包含所有的目前主流的技术的文档，算是在线版的Dash，推荐；
