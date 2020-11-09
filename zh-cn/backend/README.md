@@ -3,10 +3,11 @@
 1. [分布式缓存桥梁 J2Cache](zh-cn/backend/Cache)
 2. [后端架构实践](zh-cn/backend/Arch)
 3. 高并发实践心得
-4. 后端性能测试实践
+4. [后端性能测试实践](zh-cn/backend/性能测试)
 5. 前端代码规范
-6. JVM 调优
+6. [JVM 调优](zh-cn/backend/JVM)
 7. [MyBatis 一级缓存引发的灾难](zh-cn/backend/Mybatis 一级缓存引发的灾难)
+8. Linux 基本指令
 
 # 2. 后端主流技术框架汇总
 
