@@ -8,6 +8,7 @@
 6. [JVM 调优](zh-cn/backend/JVM)
 7. [MyBatis 一级缓存引发的灾难](zh-cn/backend/Mybatis 一级缓存引发的灾难)
 8. Linux 基本指令
+9. [Mysql 索引](zh-cn/backend/Mysql)
 
 # 2. 后端主流技术框架汇总
 
